@@ -8,3 +8,8 @@ Tkinter GUI for program to combine files with options to delimit with \n and del
 ## Technologies Used
 - Tkinter
 - Python3
+
+## Demo Images
+https://github.com/KeshavSanthanam/FileCombinerGUI/blob/main/demo_images/GUI_blank.png
+https://github.com/KeshavSanthanam/FileCombinerGUI/blob/main/demo_images/GUI.png
+https://github.com/KeshavSanthanam/FileCombinerGUI/blob/main/demo_images/Results.png
