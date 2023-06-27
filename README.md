@@ -1,5 +1,5 @@
 # FileCombinerGUI
-Tkinter GUI for program to combine files with options to delimit with \n and delete input files after combining
+Tkinter GUI for program to combine files with options to delimit with \n and delete input files after combining (also displays output file size and directory size)
 
 ## Features added since the console version
 - Can use source and destination files from any directory
