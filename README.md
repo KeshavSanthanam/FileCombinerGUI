@@ -6,4 +6,5 @@ Tkinter GUI for program to combine files with options to delimit with \n and del
 - Doesn't require separate specification of number of input files
 
 ## Technologies Used
-Tkinter, Python3
+- Tkinter
+- Python3
